@@ -175,8 +175,8 @@ blockquote {
 }
 
 .btn {
-    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #e1556f 0%, #e63064 100%) repeat scroll 0 0;
-    background: rgba(0, 0, 0, 0) linear-gradient(to right, #e1556f 0%, #e63064 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #f99f74 0%, #e63064 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #f99f74 0%, #e63064 100%) repeat scroll 0 0;
     border: 0 none;
     border-radius: 100px;
     color: #fff;
@@ -202,8 +202,8 @@ blockquote {
 }
 
 .btn:active {
-    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #00c9fd 0%, #81ee8e 100%) repeat scroll 0 0;
-    background: rgba(0, 0, 0, 0) linear-gradient(to right, #00c9fd 0%, #81ee8e 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #f99f74 0%, #c93060 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #f99f74 0%, #c93060 100%) repeat scroll 0 0;
 }
 
 .btn.btn-bordered-white {
@@ -219,8 +219,8 @@ blockquote {
 }
 
 .btn.btn-bordered-white:after {
-    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #e1556f 0%, #e63064 100%) repeat scroll 0 0;
-    background: rgba(0, 0, 0, 0) linear-gradient(to right, #e1556f 0%, #e63064 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #f99f74 0%, #e63064 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #f99f74 0%, #e63064 100%) repeat scroll 0 0;
     border-radius: 100px;
     content: "";
     height: calc(100% + 4px);
@@ -252,8 +252,8 @@ blockquote {
 }
 
 .btn.btn-bordered-grad:before {
-    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #e1556f 0%, #e63064 100%) repeat scroll 0 0;
-    background: rgba(0, 0, 0, 0) linear-gradient(to right, #e1556f 0%, #e63064 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #f99f74 0%, #e63064 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #f99f74 0%, #e63064 100%) repeat scroll 0 0;
     border-radius: 100px;
     content: "";
     height: calc(100% + 4px);
@@ -924,13 +924,13 @@ PADDING LEFT
 }
 
 .blue-grad-bg {
-    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #e1556f 0%, #e63064 100%) repeat scroll 0 0;
-    background: rgba(0, 0, 0, 0) linear-gradient(to right, #e1556f 0%, #e63064 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #f99f74 0%, #e63064 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #f99f74 0%, #e63064 100%) repeat scroll 0 0;
 }
 
 .blue-grad-bg-2 {
-    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #e1556f 0%, #f89482 100%) repeat scroll 0 0;
-    background: rgba(0, 0, 0, 0) linear-gradient(to right, #e1556f 0%, #f89482 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #f99f74 0%, #f89482 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #f99f74 0%, #f89482 100%) repeat scroll 0 0;
 }
 
 
@@ -989,13 +989,13 @@ PADDING LEFT
 }
 
 .overlay-grad-one:after {
-    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #e1556f 0%, #e63064 100%) repeat scroll 0 0;
-    background: rgba(0, 0, 0, 0) linear-gradient(to right, #e1556f 0%, #e63064 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #f99f74 0%, #e63064 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #f99f74 0%, #e63064 100%) repeat scroll 0 0;
 }
 
 .overlay-grad-three {
-    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #e1556f 0%, #e63064 100%) repeat scroll 0 0;
-    background: rgba(0, 0, 0, 0) linear-gradient(to right, #e1556f 0%, #e63064 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #f99f74 0%, #e63064 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #f99f74 0%, #e63064 100%) repeat scroll 0 0;
     content: "";
     height: 100%;
     left: 0;
@@ -1091,8 +1091,8 @@ header {
 }
 
 .navbar.affix {
-    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #e1556f 0%, #e63064 100%) repeat scroll 0 0;
-    background: rgba(0, 0, 0, 0) linear-gradient(to right, #e1556f 0%, #e63064 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #f99f74 0%, #e63064 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #f99f74 0%, #e63064 100%) repeat scroll 0 0;
     box-shadow: 0 0 20px -10px rgba(0, 0, 0, 0.8);
 }
 .navbar-brand{
@@ -1143,7 +1143,7 @@ header {
 .home-style-2 .nav>li>a:hover,
 .home-style-2 .nav>.active>a {
     background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
-    color: #e1556f;
+    color: #f99f74;
 }
 
 
@@ -1368,8 +1368,8 @@ header {
 }
 
 .single-feature:after {
-    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #e1556f 0%, #e63064 100%) repeat scroll 0 0;
-    background: rgba(0, 0, 0, 0) linear-gradient(to right, #e1556f 0%, #e63064 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #f99f74 0%, #e63064 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #f99f74 0%, #e63064 100%) repeat scroll 0 0;
     bottom: 0;
     content: "";
     height: 2px;
@@ -1462,7 +1462,7 @@ header {
 .store-buttons i {
     color: #fff;
     font-size: 24px;
-    padding-right: 10px;
+    padding-left: 10px;
     vertical-align: middle;
 }
 
@@ -1569,8 +1569,8 @@ header {
 }
 
 .awesome-feature-icon span:after {
-    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #e1556f 0%, #e63064 100%) repeat scroll 0 0;
-    background: rgba(0, 0, 0, 0) linear-gradient(to right, #e1556f 0%, #e63064 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #f99f74 0%, #e63064 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #f99f74 0%, #e63064 100%) repeat scroll 0 0;
     border-radius: 50px;
     content: "";
     height: 100%;
@@ -1746,7 +1746,7 @@ header {
 }
 
 .slick-dots li {
-    border: 1px solid #e1556f;
+    border: 1px solid #f99f74;
     border-radius: 50px;
     cursor: pointer;
     display: inline-block;
@@ -1758,8 +1758,8 @@ header {
 }
 
 .slick-dots li.slick-active {
-    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #e1556f 0%, #e63064 100%) repeat scroll 0 0;
-    background: rgba(0, 0, 0, 0) linear-gradient(to right, #e1556f 0%, #e63064 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #f99f74 0%, #e63064 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #f99f74 0%, #e63064 100%) repeat scroll 0 0;
 
     border: medium none;
 }
@@ -1810,7 +1810,7 @@ header {
 
 .swiper-pagination-bullet {
     background: transparent none repeat scroll 0 0;
-    border: 1px solid #e1556f;
+    border: 1px solid #f99f74;
     border-radius: 100%;
     display: inline-block;
     height: 12px;
@@ -1820,8 +1820,8 @@ header {
 }
 
 .swiper-pagination-bullet-active {
-    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #e1556f 0%, #f89482 100%) repeat scroll 0 0;
-    background: rgba(0, 0, 0, 0) linear-gradient(to right, #e1556f 0%, #f89482 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #f99f74 0%, #f89482 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #f99f74 0%, #f89482 100%) repeat scroll 0 0;
     border: medium none;
     height: 12px;
     opacity: 1;
@@ -1914,8 +1914,8 @@ header {
 }
 
 .social a:after {
-    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #e1556f 0%, #e63064 100%) repeat scroll 0 0;
-    background: rgba(0, 0, 0, 0) linear-gradient(to right, #e1556f 0%, #e63064 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #f99f74 0%, #e63064 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #f99f74 0%, #e63064 100%) repeat scroll 0 0;
     border-radius: 100px;
     content: "";
     height: 100%;
@@ -2049,7 +2049,7 @@ header {
 
 .testimonial-slider-2 .slick-prev:before,
 .testimonial-slider-2 .slick-next:before {
-    color: #e1556f;
+    color: #f99f74;
     font-family: "icofont";
     font-size: 48px;
     line-height: 1;
@@ -2139,8 +2139,8 @@ header {
 }
 
 .pricing-footer:after {
-    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #e1556f 0%, #e63064 100%) repeat scroll 0 0;
-    background: rgba(0, 0, 0, 0) linear-gradient(to right, #e1556f 0%, #e63064 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #f99f74 0%, #e63064 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #f99f74 0%, #e63064 100%) repeat scroll 0 0;
     content: "";
     height: 1px;
     left: 0;
@@ -2151,8 +2151,8 @@ header {
 }
 
 .pricing-footer:before {
-    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #e1556f 0%, #e63064 100%) repeat scroll 0 0;
-    background: rgba(0, 0, 0, 0) linear-gradient(to right, #e1556f 0%, #e63064 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #f99f74 0%, #e63064 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #f99f74 0%, #e63064 100%) repeat scroll 0 0;
     content: "";
     height: 100%;
     left: 0;
@@ -2177,7 +2177,7 @@ header {
 }
 
 .single-price-table:hover .price-value {
-    color: #e1556f;
+    color: #f99f74;
 }
 
 .single-price-table:hover .pricing-footer p,
@@ -2235,8 +2235,8 @@ header {
 }
 
 .panel:before {
-    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(top, #e1556f 0%, #e63064 100%) repeat scroll 0 0;
-    background: rgba(0, 0, 0, 0) linear-gradient(to bottom, #e1556f 0%, #e63064 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(top, #f99f74 0%, #e63064 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to bottom, #f99f74 0%, #e63064 100%) repeat scroll 0 0;
     content: "";
     height: 100%;
     left: -2px;
@@ -2282,9 +2282,9 @@ header {
 }
 
 .panel-title a:after {
-    border: 1px solid #e1556f;
+    border: 1px solid #f99f74;
     border-radius: 50px;
-    color: #e1556f;
+    color: #f99f74;
     content: "";
     font-family: Icofont;
     font-size: 12px;
@@ -2471,8 +2471,8 @@ header {
 }
 
 .subscribe-box button {
-    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #e1556f 0%, #e63064 100%) repeat scroll 0 0;
-    background: rgba(0, 0, 0, 0) linear-gradient(to right, #e1556f 0%, #e63064 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #f99f74 0%, #e63064 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #f99f74 0%, #e63064 100%) repeat scroll 0 0;
     border: medium none;
     border-radius: 100px;
     color: #fff;
@@ -2499,20 +2499,16 @@ header {
 }
 
 .contact-box {
-    left: 50%;
-    margin: 0 auto;
-    position: absolute;
-    top: 50%;
-    transform: translateX(-50%);
+
 }
 
 .contact-box-inner {
-    background-color: #e1556f;
+    background-color: #e83e66;
     box-shadow: 0 0 40px rgba(0, 0, 0, 0.15);
 }
 
 .contact-box-inner .address-box {
-    background-color: #e1556f;
+    background-color: #e83e66;
     padding-left: calc(100px - 30px);
 }
 
@@ -2534,8 +2530,8 @@ header {
 }
 
 .form-grad-border {
-    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #00c9fd 0%, #81ee8e 100%) repeat scroll 0 0;
-    background: rgba(0, 0, 0, 0) linear-gradient(to right, #00c9fd 0%, #81ee8e 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #f99f74 0%, #e63064 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #f99f74 0%, #e63064 100%) repeat scroll 0 0;
     bottom: 0;
     content: "";
     height: 1px;
@@ -2588,7 +2584,7 @@ header {
 .get-in-touch .btn {
     color: #fff;
     font-size: 12px;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     padding: 15px 30px;
 }
 
@@ -2627,7 +2623,7 @@ header {
 }
 
 .info-icon {
-    padding-right: 10px;
+    padding-left: 10px;
 }
 
 .info-details p {
@@ -2684,7 +2680,7 @@ header {
 ===================================== */
 
 .home-style-2 .copyright a {
-    color: #e1556f;
+    color: #f99f74;
 }
 
 
@@ -3828,8 +3824,8 @@ header {
 35. PRELOADER
 ------------------------------------------*/
 #preloader-wrapper {
-    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #e1556f 0%, #e63064 100%) repeat scroll 0 0;
-    background: rgba(0, 0, 0, 0) linear-gradient(to right, #e1556f 0%, #e63064 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #f99f74 0%, #e63064 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #f99f74 0%, #e63064 100%) repeat scroll 0 0;
     height: 100%;
     left: 0;
     position: fixed;
